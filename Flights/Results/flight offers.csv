@@ -1,0 +1,17 @@
+Type,Type of coupon,Coupon name,Promocode,Description,Validity
+FLIGHTS,Regular,Flight deal,EMT2020,Grab 5% Instant Discount on Flight Booking with EaseMyTrip,
+FLIGHTS,Regular,New user, EMTFIRST,Register and Get Discount on Booking First Flight with Us,
+FLIGHTS,Special Offers,New User,EMTFIRST,Get Discount on Booking First Flight with Us,"31st Jul,2020"
+FLIGHTS,Special Offers,MobiKwik,,Enjoy 10% MobiKwik SuperCash (Max Rs. 1000) on Flights,"31st Aug, 2020"
+FLIGHTS,Special Offers,Gaana Subscription,EMTGAANA,Enjoy Traveling While Listening To Your Favorite Music,"31st Jul,2020"
+FLIGHTS,Special Offers,Instant Discount,EASEFLY,Get upto Rs.3000 Instant Discount on Flight Booking,"31st Jul,2020"
+FLIGHTS,Special Offers, Domestic Flights Offer,EMTEXTRA,"Fly With Starting Fare of Rs.1199. Also, Enjoy Additional Discount of Rs.500","31st Jul,2020"
+FLIGHTS,Special Offers,Discount coupon,EMT2020,Use Coupon Code EMT2020 & get 5% Instant discount on Flights,"31st Jul,2020"
+FLIGHTS,Special Offers, Win Flight Ticket,FREEFLIGHT,Grab the Opportunity to Win a Free Flight Ticket worth Rs.5000,"31st Jul,2020"
+FLIGHTS,Special Offers,Videsh Offer,VIDESH,Grab Up to 5000 Rs. Off on Booking International Flight Tickets,"31st Jul,2020"
+FLIGHTS,Special Offers, International Flight Offer,PARDES,Get Flat 10% Discount on Roundtrip International Flight Bookings,"31st Jul,2020"
+FLIGHTS,Special Offers,Fly Couple,FLYCOUPLE,Get Up to Rs. 2500 Off on Booking Flight Tickets for Two Persons,"31st Jul,2020"
+FLIGHTS,Special Offers,International Flights,INTEMT,"Get upto Rs.20,000 Instant Discount on International Flights.","31st Jul,2020"
+FLIGHTS,Special Offers, Fly Family,FLYFAMILY,Enjoy Up to Rs. 3000 Off on Booking Flight Tickets for Three Persons,"31st Jul,2020"
+FLIGHTS,Special Offers, Udan Offer,UDAN,Enjoy Discount of Rs.500 on UDAN Flights,"31st Jul,2020"
+FLIGHTS,Special Offers,MICE,,Join Our MICE Program for Gleeful Travel & Heartfelt Services,"31st Jul,2020"
